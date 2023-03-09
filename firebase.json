@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "reseptadjilbuka",	  
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
